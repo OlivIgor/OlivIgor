@@ -4,12 +4,12 @@
   <br>
   <strong>Sobre:</strong>
   <br>
-  <i>🤖🎣 Sou apaixonado por inovação e transformação digital, sempre buscando está por dentro das novas tendencias no mercado de TI. Alem disso gosto de conversar e debates sobre novas possibilidades(de maneira geral) com os avanços da tecnologia. Estou sempre buscando aprender as novas tecnologias e padrões exigente no mercado.</i>
+  <i>🤖🎣 Sou apaixonado por inovação e transformação digital, sempre buscando está por dentro das novas tendencias no mercado de TI. Alem disso gosto de conversar e debates sobre novas possibilidades(de maneira geral) com os avanços da tecnologia. Estou sempre buscando aprender as novas tecnologias e padrões exigente do mercado.</i>
   
 </p>
 <p align="left">
-  Tecnologias que uso no dia a dia: 
-  <strong>PHP, Laravel, Postgres, Postman, Javascript, HTML, CSS, Node, MySQL</strong>
+  Algumas tecnologias/ferramentas que uso no dia a dia: 
+  <strong>PHP, Laravel, Postgres, Postman, Javascript, HTML, CSS, Node, MySQL, API</strong>
 </p>
 <p align="left">
   
