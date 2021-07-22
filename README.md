@@ -15,7 +15,7 @@
   
 </p>
 <p align="left">
-  Feel free to contact me:
+  Contatos:
 </p>
 <p align="left">
 <a href="mailto:joseigorso2010@gmail.com" alt="Gmail">
