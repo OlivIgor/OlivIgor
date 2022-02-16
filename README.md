@@ -1,5 +1,5 @@
 <p align="left">
-  🤓 Oi,sou Igor Oliveira e tenho 20 anos.
+  🤓 Oi,sou Igor Oliveira.
   Sou desenvolvedor web PHP a mais de 3 anos, realizando o papel do fullstack.
   <br>
   <strong>Sobre:</strong>
