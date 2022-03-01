@@ -1,6 +1,6 @@
 <p align="left">
   🤓 Oi,sou Igor Oliveira.
-  Sou desenvolvedor web PHP a mais de 3 anos, realizando o papel do fullstack.
+  Sou desenvolvedor web PHP, realizando o papel do backend.
   <br>
   <strong>Sobre:</strong>
   <br>
