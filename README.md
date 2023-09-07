@@ -1,6 +1,6 @@
 <p align="left">
-  🤓 Oi,sou Igor Oliveira.
-  Sou desenvolvedor web PHP, realizando o papel do backend.
+  🤓 Oi, sou Igor Oliveira.
+  Sou desenvolvedor web PHP backend.
   <br>
   <strong>Sobre:</strong>
   <br>
