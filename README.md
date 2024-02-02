@@ -1,6 +1,6 @@
 <p align="left">
   🤓 Oi, sou Igor Oliveira.
-  Sou desenvolvedor web PHP backend.
+  Sou desenvolvedor web backend.
   <br>
   <strong>Sobre:</strong>
   <br>
@@ -9,7 +9,7 @@
 </p>
 <p align="left">
   Algumas tecnologias/ferramentas que uso no dia a dia: 
-  <strong>PHP, Laravel, Postgres, Postman, Javascript, HTML, CSS, Node, MySQL, API</strong>
+  <strong>PHP, Go, Laravel, Postgres, Postman, ElasticSearch, Grafana, Datadog, Sentry, Slack, MySQL, API</strong>
 </p>
 <p align="left">
   
